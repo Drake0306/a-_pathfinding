@@ -4,4 +4,4 @@ A* Pathfinding USING PYTHON
 
 
 Required 
-pip install pygame
+# pip install pygame
